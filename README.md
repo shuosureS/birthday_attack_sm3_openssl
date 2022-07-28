@@ -50,8 +50,8 @@
 |24|7813ms|
 |16|32ms|
 
-![image]()
+![image](https://github.com/shuosureS/birthday_attack_sm3_openssl/blob/master/574da61449ef20aee39cb0cc5b5693bf.png)
 
-![截图]()
+![image](https://github.com/shuosureS/birthday_attack_sm3_openssl/blob/master/a74c977d4e669e111708073abf2a38e7.png)
 
-![截图]()
+![image](https://github.com/shuosureS/birthday_attack_sm3_openssl/blob/master/ec3627236a0348f5f9b0321483e69e43.png)
